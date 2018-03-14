@@ -180,7 +180,6 @@ void roznica() {
 	}
 }
 
-//hehe
 
 
 void start() {
