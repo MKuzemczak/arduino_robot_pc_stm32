@@ -180,6 +180,8 @@ void roznica() {
 	}
 }
 
+//hehe
+
 
 void start() {
 	driver.setPWM(SRV0, 0, 350);
